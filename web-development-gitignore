@@ -37,3 +37,6 @@ maps/
 ehthumbs.db
 Thumbs.db
 
+############ config files ############
+######################################
+wp-config.php
