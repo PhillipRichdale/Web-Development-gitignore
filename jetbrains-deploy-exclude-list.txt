@@ -1,3 +1,3 @@
 # This is a single-line default list of items to exclude from deployment
 # Just copy+paste into the Deployment Options of your Jetbrains IDE (PhpStorm, Webstorm, IntelliJ, etc.)
-.svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc, *.md, gulpconfig.json, gulpfile.js, package.json, package-lock.json, composer.json
+.svn;.cvs;.idea;.DS_Store;.git;.hg;*.hprof;*.pyc, *.md, gulpconfig.json, gulpfile.js, package.json, package-lock.json, composer.json, yarn.lock
